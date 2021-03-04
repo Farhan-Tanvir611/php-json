@@ -1,0 +1,8 @@
+FARHAN12,1234,MD FARHAN ,TANVIR,male,farhantanvir220@gmail.com,
+FARHAN12,1234,MD FARHAN ,TANVIR,male,farhantanvir220@gmail.com,
+{"user":"ashraf","password":"98\\","firstname":"Ashraful","lastName":"Maklukat","gender":"male","email":"Ashraful@gmail.com"}
+{"user":"ashraf","password":"987","firstname":"Ashraful","lastName":"Maklukat","gender":"male","email":"Ashraful@gmail.com"}
+{"user":"ashraf","password":"985","firstname":"Ashraful","lastName":"Maklukat","gender":"male","email":"Ashraful@gmail.com"}
+{"user":"ashraf","password":"122","firstname":"Ashraful","lastName":"Maklukat","gender":"male","email":"Ashraful@gmail.com"}
+{"user":"ashraf","password":"321","firstname":"Ashraful","lastName":"Maklukat","gender":"male","email":"Ashraful@gmail.com"}
+{"user":"FARHAN12","password":"1234","firstname":"Ashraful","lastName":"Maklukat","gender":"male","email":"Ashraful@gmail.com"}

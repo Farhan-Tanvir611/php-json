@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registration form with file handling</title>
+</head>
+<body style="background-color:powderblue;">
+	<font color = "DarkSlateGray">    <h1> <marquee> REGISTRATION   FORM   WITH   FILE   HANDLING
+        </marquee> </h1> </font>
+	<hr>
+	<br>
+
+	<form action="RegitratiionAction.php"   method="POST">
+
+  <legend><h3>BASIC INFORMATION </h3></legend>
+
+		<label for="firstname"> <font color=MidnightBlue><b>Enter Your First Name:</font></b></label>
+		<input type="text" name="firstname" id="firstname">
+
+		<br>
+
+		<label for="lastname"> <font color=MidnightBlue><b>Enter Your Last Name:</font></b></label>
+		<input type="text" name="lastname" id="lastname">
+		<br>
+
+
+		<label for="gender"> <font color=MidnightBlue<b> Gender:</b></font></label>
+		<input type="radio" name="gender" id="male" value="male">
+		<label for="male"><font color=MidnightBlue<b>Male</b></font></label>
+
+		<input type="radio" name="gender" id="female" value="female">
+
+		<label for="female"><font color=MidnightBlue<b>Female</b></font></label>
+
+		<input type="radio" name="gender" id="others" value="others">
+
+		<label for="others"><font color=MidnightBlue<b>Others</b></font></label>
+		
+		<br>
+
+        
+          <label for="email"><font color=MidnightBlue<b> Enter Your Email:</b></font></label>
+          <input type="email" id="email" name="email">
+		<br>
+		
+		<legend><h3>USER INFORMATION </h3></legend>
+		
+		<label for="user">ENTER YOUR NAME:</label>
+		<input type="text" name="user" id="user">
+
+		<br>
+
+		<label for="password">ENTER YOUR PASSWORD</label>
+		<input type="password" id="password" name="password">
+		<br>
+
+		 <label for="mail">ENTER YOUR RECOVERY MAIL:</label>
+          <input type="mail" id="mail" name="mail">
+          
+		<br>
+
+         <input type="submit" value="Submit">
+
+	</form>
+</body>
+</html>
+
